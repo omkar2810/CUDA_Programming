@@ -1,4 +1,4 @@
-## Cuda Programming
+## CUDA Programming
 
 ### GPU Alogirthms
 

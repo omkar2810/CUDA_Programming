@@ -29,4 +29,4 @@ The complete code for the CNN is not included, and the files contain the optimiz
 
 
 ## Acknowledgement 
-The boiler plate code was provided by UIUC CS483 teaching staff.
+The boilerplate code was provided by UIUC CS483 teaching staff.
